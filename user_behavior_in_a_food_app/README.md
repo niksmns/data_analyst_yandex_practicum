@@ -4,7 +4,7 @@
 
 **`Nbviewer:`** 
 
-[![nbviewer](https://img.shields.io/badge/VIEW-nbviewer-orange)](**)
+[![nbviewer](https://img.shields.io/badge/VIEW-nbviewer-orange)](https://nbviewer.org/github/niksmns/data_analyst_yandex_practicum/blob/main/user_behavior_in_a_food_app/0a8222a9-722b-44b4-ba68-40dd87feb423.ipynb)
 
 **`Предоставленные данные:`**
 
