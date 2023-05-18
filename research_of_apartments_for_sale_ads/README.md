@@ -4,7 +4,7 @@
 
 **`Nbviewer:`** 
 
-![nbviewer](https://img.shields.io/badge/VIEW-nbviewer-orange)
+[![nbviewer](https://img.shields.io/badge/VIEW-nbviewer-orange)](https://nbviewer.org/github/niksmns/data_analyst_yandex_practicum/blob/main/research_of_apartments_for_sale_ads/research_of_apartments_for_sale_ads.ipynb)
 
 **`Предоставленные данные:`**
 
