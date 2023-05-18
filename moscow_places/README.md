@@ -2,9 +2,11 @@
 
 ## Описание проекта
 
+[Презентация](https://disk.yandex.ru/i/TC4cQtO8cfFlmw)
+
 **`Nbviewer:`** 
 
-[![nbviewer](https://img.shields.io/badge/VIEW-nbviewer-orange)](**)
+[![nbviewer](https://img.shields.io/badge/VIEW-nbviewer-orange)](https://nbviewer.org/github/niksmns/data_analyst_yandex_practicum/blob/main/moscow_places/ffa90f15-ac8a-4b42-a044-06880a55dc55.ipynb)
 
 **`Предоставленные данные:`**
 
