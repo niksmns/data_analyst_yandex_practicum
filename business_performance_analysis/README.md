@@ -4,7 +4,7 @@
 
 **`Nbviewer:`** 
 
-[![nbviewer](https://img.shields.io/badge/VIEW-nbviewer-orange)](**)
+[![nbviewer](https://img.shields.io/badge/VIEW-nbviewer-orange)](https://nbviewer.org/github/niksmns/data_analyst_yandex_practicum/blob/main/business_performance_analysis/business_perfomance_analysis.ipynb)
 
 **`Предоставленные данные:`**
 
